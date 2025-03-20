@@ -21,7 +21,4 @@ This project is an **Automated Data Profiler & Visualization Tool** that analyze
 - Pandas Profiling
 - ReportLab (for PDF generation)
 
-## 📂 Dataset Used
-**Dataset Name:** Superstore Sales Data  
-**Download Link:** [Kaggle - Superstore Sales](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
