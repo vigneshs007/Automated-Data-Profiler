@@ -1,0 +1,19 @@
+# Ignore datasets
+*.csv
+
+# Keep only small sample datasets in /data
+!data/
+!data/*.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
