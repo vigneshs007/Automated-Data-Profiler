@@ -1,6 +1,0 @@
-Order ID,Date,Customer Name,Category,Sales,Profit,Quantity,Discount
-1001,2024-01-10,John Doe,Electronics,200.5,50.2,2,0.1
-1002,2024-02-15,Jane Smith,Furniture,450.0,120.5,5,0.2
-1003,2024-03-20,Alice Johnson,Office Supplies,120.75,30.8,3,0.05
-1004,2024-04-25,Bob Brown,Electronics,300.9,80.6,4,0.15
-1005,2024-05-30,Charlie Lee,Furniture,600.4,200.1,7,0.25
